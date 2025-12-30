@@ -1,14 +1,14 @@
  mysql-project1
  
- E-Commerce Sales Analysis Project
+- E-Commerce Sales Analysis Project
 
 Overview:
 
-Analyzed e-commerce customer and order data to identify sales trends, customer behavior, and business insights.
+- Analyzed e-commerce customer and order data to identify sales trends, customer behavior, and business insights.
 
 Tools Used:
 
-SQL | Power BI | Excel
+- SQL | Power BI | Excel
 
 Dataset:
 - E-commerce customer and order datasets containing sales, order details, and customer information.
@@ -27,4 +27,4 @@ Key Insights:
 
 Output:
 
--Power BI dashboard with actionable business insights.
+- Power BI dashboard with actionable business insights.
